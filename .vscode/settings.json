@@ -1,0 +1,16 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "errorLens.enabledDiagnosticLevels": [
+        "error",
+        "warning",
+        "info",
+        "hint"
+    ],
+    "[terraform]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    }
+}
