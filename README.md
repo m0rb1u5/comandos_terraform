@@ -1,4 +1,4 @@
-# Terraform: Commands: show/state/import/refresh
+# Terraform: Commandos Terraform
 
 ## Pre-requirements
 
